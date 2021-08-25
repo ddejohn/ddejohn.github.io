@@ -20,8 +20,7 @@
 
 title: ddejohn/
 email: ddejohn@pm.me
-description: >- # this means to ignore newlines until "baseurl:"
-  A blog wherein I write about programming, mathematics, and my personal projects.
+description: A blog wherein I write about programming, mathematics, and my personal projects.
 # domain: "ddejohn.github.io"
 # baseurl: "/ddejohn.github.io"
 # url: "https://ddejohn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
