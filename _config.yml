@@ -25,9 +25,9 @@ description: A blog wherein I write about programming, mathematics, and my perso
 github_username: ddejohn
 linkedin_username: ddejohn
 
-remote_theme: jekyll/minima@3cdd14d
-minima:
-    skin: dark
+remote_theme: jekyll/minima
+# minima:
+#     skin: dark
 
 plugins:
   - jekyll-feed
