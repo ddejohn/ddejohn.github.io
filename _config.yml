@@ -28,6 +28,7 @@ linkedin_username: ddejohn
 remote_theme: jekyll/minima
 # minima:
 #     skin: dark
+show_excerpts: true
 
 plugins:
   - jekyll-feed
