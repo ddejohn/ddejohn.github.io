@@ -25,14 +25,14 @@ description: A blog wherein I write about programming, mathematics, and my perso
 github_username: ddejohn
 linkedin_username: ddejohn
 
-remote_theme: jekyll/minima
+theme: minima
 # minima:
 #     skin: dark
 show_excerpts: true
 
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+#   - jekyll-remote-theme
 
 # domain: "ddejohn.github.io"
 # baseurl: "/ddejohn.github.io"
