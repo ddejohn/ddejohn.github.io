@@ -18,7 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-baseurl: /
+baseurl: ""
+
 title: ddejohn/
 email: ddejohn@pm.me
 description: A blog wherein I write about programming, mathematics, and my personal projects.
