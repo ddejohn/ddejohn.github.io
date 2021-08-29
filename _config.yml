@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-url: "https://ddejohn.github.io"
-baseurl: ""
+# url: "https://ddejohn.github.io"
+# baseurl: ""
 
 title: ddejohn/
 email: ddejohn@pm.me
@@ -37,7 +37,6 @@ plugins:
 #   - jekyll-remote-theme
 
 # domain: "ddejohn.github.io"
-# baseurl: "/ddejohn.github.io"
 # url: "https://ddejohn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Exclude from processing.
