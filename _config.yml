@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-site_url: https://ddejohn.github.io/
+baseurl: /
 title: ddejohn/
 email: ddejohn@pm.me
 description: A blog wherein I write about programming, mathematics, and my personal projects.
