@@ -28,8 +28,6 @@ github_username: ddejohn
 linkedin_username: ddejohn
 
 theme: minima
-# minima:
-#     skin: dark
 show_excerpts: true
 
 plugins:
