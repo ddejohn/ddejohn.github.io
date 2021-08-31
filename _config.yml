@@ -30,8 +30,8 @@ linkedin_username: ddejohn
 theme: minima
 show_excerpts: true
 
-plugins:
-  - jekyll-feed
+# plugins:
+#   - jekyll-feed
 #   - jekyll-remote-theme
 
 # domain: "ddejohn.github.io"
