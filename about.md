@@ -34,7 +34,7 @@ RESTful APIs, data analysis, data visualization, Linux, object-oriented programm
 
 ### Applied Mathematics, B.S., Metropolitan State University of Denver
 
-September 2017 - May 2020
+*September 2017 - May 2020*
 
 * Majored in applied mathematics with a concentration in differential equations and numerical analysis
 * Minored in computer science and physics
@@ -44,7 +44,7 @@ September 2017 - May 2020
 
 ### Lead Curriculum Developer - Data Science Prep & Precourse, Galvanize
 
-February 2020 - August 2021
+*February 2020 - August 2021*
 
 * Designed curriculum in probability, statistics, calculus, linear algebra, machine learning, and computer science for our Data Science immersive program
 * Taught large-scale online classes in the aforementioned topics
@@ -55,14 +55,14 @@ February 2020 - August 2021
 
 ### Math, Stats, and CS Tutor, Metroplitan State University of Denver Math & CS Department
 
-January 2018 - May 2020
+*January 2018 - May 2020*
 
 * Personally requested by department chair to become a tutor
 * Tutored extensively in differential and integral calculus, ordinary and partial differential equations, linear algebra, probability, statistics, abstract algebra, proofs, programming, numerical analysis, and computer science
 
 ### Electrical Team Lead, Metropolitan State University of Denver RockSat-X
 
-September 2015 - June 2016
+*September 2015 - June 2016*
 
 * Awarded one of five payload spots in an extremely competitive program involving colleges around the country, and multiple in-depth design reviews with NASA
 * Fulfilled strict design requirements involving payload exposure to vacuum, atmospheric reentry, and splashdown waterproofing
@@ -71,7 +71,7 @@ September 2015 - June 2016
 
 ### Test/Integration Team Lead, Community College of Denver RockSat-C
 
-October 2014 - June 2015
+*October 2014 - June 2015*
 
 * Awarded one of eight payload spots among dozens of competing universities around the country, after a months-long process of design iteration and design reviews with NASA
 * Designed detailed payload testing and integration procedures
