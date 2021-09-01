@@ -1,14 +1,16 @@
 ---
 layout: page
-title: About
+title: Devon DeJohn
 permalink: /about/
 ---
 
-## Devon DeJohn
+## Contact information
 
 * Denver, CO
 * ddejohn@pm.me
 * https://techrez.io/resume/ddejohn
+
+## About me
 
 *Team leader on two student-designed-and-built engineering payloads flown on NASA suborbital sounding rockets. Four years of Python experience. Applied mathematician with diverse skill set and extensive background in solving complex problems across a wide variety of problem domains. Interested in astrodynamics, numerical analysis, computational physics, control theory, backend software engineering, data analysis, and machine learning.*
 
