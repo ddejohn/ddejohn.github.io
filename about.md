@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Devon DeJohn
+title: Resume
 permalink: /about/
 ---
 
-## Contact information
+## Devon DeJohn
 
 * Denver, CO
 * ddejohn@pm.me
