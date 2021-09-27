@@ -6,7 +6,7 @@ date: 2021-09-26 18:00:00 -0600
 
 An extension of [one of my recent Stack Overflow answers](https://stackoverflow.com/questions/69337251/concatenate-strings-with-a-common-substring-in-python/69337268#69337268).
 
-I'll show two pure Python solutions for concatenating an arbitrary list of strings based on suffix-prefix pairs. This means that EVERY possible pair of words must be checked to see if their suffix and prefixes match e.g.: `"hello world"` and `"world foo"`.
+I'll show two pure Python solutions for concatenating an arbitrary list of strings based on suffix-prefix pairs. This means that EVERY possible pair of words must be checked to see if their suffix and prefixes match e.g.: `"helloworld"` and `"worldfoo"`.
 
 Here's an example of a (short) list of strings for which we can start working on a solution:
 
