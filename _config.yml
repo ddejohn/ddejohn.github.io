@@ -26,6 +26,7 @@ email: ddejohn@pm.me
 description: A blog wherein I write about programming, mathematics, and my personal projects.
 github_username: ddejohn
 linkedin_username: ddejohn
+stackoverflow_username: ddejohn
 
 theme: minima
 show_excerpts: true
