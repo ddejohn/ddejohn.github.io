@@ -57,13 +57,14 @@ RESTful APIs, data analysis, data visualization, Linux, object-oriented programm
 * Spearheaded multiple large-scale overhaul projects related to our curriculum structure, pedagogical approach, and content quality
 * Established standardized workflows, project tracking, version control discipline, and code reviewing protocols for all of our content creation processes
 * Wrote entire new modules of material in various advanced topics that pushed the limits of our Learning Management System’s capabilities, and significantly raised the bar for the quality of our program’s content
-* Redesigned the technical interview to a data-collection-oriented process and paved the way for our team to perform analyses on our technical interview results and applicant performance
+* Redesigned the technical interview to a data-collection-oriented process and paved the way for our team to perform analysis on our technical interview process
+* Utilized Python, Pandas, Numpy, PostgreSQL, and the Salesforce API to perform data analysis on technical interview results and applicant performance
 
-### Math, Stats, and CS Tutor, Metroplitan State University of Denver Math & CS Department
+### Math, Stats, and CS Tutor, Metropolitan State University of Denver Math & CS Department
 
 *January 2018 - May 2020*
 
-* Personally requested by department chair to become a tutor
+* Official tutor for the MSU Math & CS department
 * Tutored extensively in differential and integral calculus, ordinary and partial differential equations, linear algebra, probability, statistics, abstract algebra, proofs, programming, numerical analysis, and computer science
 
 ### Electrical Team Lead, Metropolitan State University of Denver RockSat-X
@@ -84,7 +85,7 @@ RESTful APIs, data analysis, data visualization, Linux, object-oriented programm
 * Improved flight code for crucial experiment task
 * Complete success of multiple flight experiments, one of only three totally successful payloads
 
-## Projects
+## Personal Projects
 
 ### [Conway's Game of Life](https://ddejohn.github.io/2021/08/20/life.html)
 
